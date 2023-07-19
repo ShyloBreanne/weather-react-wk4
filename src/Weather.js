@@ -59,6 +59,7 @@ export default function Weather() {
           </ul>
         </div>
       </div>
+      <small><a href="https://github.com/ShyloBreanne" target="_blank" rel="noreferrer">Open-source code</a>, by Breanne Lyall</small>
     </div>
   );
 }
